@@ -8,7 +8,7 @@ Para rodar os testes por favor utilizar a classe Cadastro.runner via junit ou se
 ![image](https://user-images.githubusercontent.com/38475941/122737471-72815b80-d257-11eb-9b7f-228e502b56a8.png)
 
 
-Nesse framework está contemplado os browsers Chrome e Firefox, mas podemos utilizar qualquer browser disponível na lib bonigarcia.
+Nesse framework está contemplado os browsers Chrome e Firefox, mas podemos utilizar qualquer browser disponível na lib webdrivermanager.
 
 
 ![image](https://user-images.githubusercontent.com/38475941/122737574-8f1d9380-d257-11eb-8427-a73109405b3d.png)
